@@ -2,7 +2,7 @@
 
 A **simple and interactive** web page to celebrate **Valentine's Day** with a beautiful **heart confetti effect**. Click the **"Spread Love"** button and watch hearts float across your screen!  
 
-![Project Screenshot](#) *(Add an image or demo link here)*  
+![Project Screenshot](Desktop View.png) *(Add an image or demo link here)*  
 
 ---
 
@@ -30,7 +30,7 @@ A **simple and interactive** web page to celebrate **Valentine's Day** with a be
 
 ## 📸 Screenshots  
 ### 💖 Desktop View  
-![Desktop Screenshot](#) *(Add a screenshot here)*  
+![Desktop Screenshot](Desktop View.png) *(Add a screenshot here)*  
 
 ### 📱 Mobile View  
 ![Mobile Screenshot](#) *(Add a mobile view screenshot here)*  
