@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style.css">
+ <title>Spread love</title>
+</head>
+<body>
+ <h1>Happy Valentine's Day</h1>
+ <p>May your day be filled with love, joy, and cherished moments with those who matter most. Whether it's friends, family, or someone special, may your heart be warm and your smiles endless. ❤️✨</p>
+ <button onclick="heartConfetti()">Spread Love</button>
+
+ <script src="https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"></script>
+ <script>
+  function heartConfetti() {
+   for (let i = 0; i < 30; i++) {
+    let heart = document.createElement("div");
+    heart.className = "heart";
+    document.body.appendChild(heart);
+    heart.style.left = Math.random() * window.innerWidth + "px";
+    heart.style.top = window.innerHeight + "px";
+    heart.style.animationDuration = (Math.random() * 3 + 2) + "s";
+    setTimeout(() => { heart.remove(); }, 4000);
+   }
+  }
+ </script>
+</body>
+</html>
