@@ -7,7 +7,7 @@ A **simple and interactive** web page to celebrate **Valentine's Day** with a be
 ---
 
 ## 🌐 Live Demo  
-🔗 [View the live demo](#) *(Replace with your GitHub Pages link once deployed)*  
+🔗 [View the live demo](https://joseph1997-eng.github.io/SpreadLove/) *(Replace with your GitHub Pages link once deployed)*  
 
 ---
 
